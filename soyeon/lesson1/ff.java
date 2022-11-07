@@ -1,9 +1,9 @@
 package lesson1;
 
-import java.util.Scanner;
 import java.util.Random;
+import java.util.Scanner;
 
-public class UpAndDownGame {
+public class ff {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random rand = new Random();
